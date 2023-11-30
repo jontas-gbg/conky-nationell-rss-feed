@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# ===================
+# 2023-11-30
+# run this if conky fail to auto reload
+# when saving conf after edit
+# ===================
+
 killall conky
 sleep 1
 clear
