@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-# =============
+# ================
 # 2023-11-29 jontas
 # make sure you've got feedparser module installed
 # ex. [pip install feedparser] or [sudo pacman -S python-feedparser]
-# =============
+# ================
 
 import feedparser
 import sys
